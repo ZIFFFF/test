@@ -10,4 +10,5 @@ public class LogmanagerApplication {
         SpringApplication.run(LogmanagerApplication.class, args);
     }
 
+
 }
